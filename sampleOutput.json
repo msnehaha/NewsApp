@@ -1,0 +1,202 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "Mars Express Discovers Mysterious Martian “Spiders” - SciTechDaily",
+      "description": "The European Space Agency’s Mars Express has snapped the telltale traces of ‘spiders’ scattered across the southern polar region of Mars. Rather than being actual spiders, these small, dark features form when spring sunshine falls on layers of carbon dioxide …",
+      "url": "https://scitechdaily.com/mars-express-discovers-mysterious-martian-spiders/",
+      "urlToImage": "https://scitechdaily.com/images/Spiders-on-Mars-ExoMars-Trace-Gas-Orbiter-scaled.jpg",
+      "publishedAt": "2024-04-28T09:41:28Z",
+      "content": "The dark spots in this image from ESA’s Mars Express are the telltale sign of ‘spiders’ scattered across the southern polar region of Mars. These small features form when carbon dioxide gas warms up … [+7571 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Nouran Salahieh, Robert Shackelford",
+      "title": "Tornado outbreak in Oklahoma prompts calls to take cover as the threat of severe storms continues from Missouri to Texas - CNN",
+      "description": "The threat of severe tornado-spawning storms continues Sunday from Missouri to Texas, where more twisters, heavy rain and large hail are possible as communities in Nebraska and Iowa survey the destruction the storms have already left behind.",
+      "url": "https://www.cnn.com/2024/04/28/weather/plains-midwest-storms-tornadoes-climate-sunday/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-04-28t013656z-890121610-rc2df7aqoas0-rtrmadp-3-usa-weather.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-04-28T09:02:00Z",
+      "content": "A tornado outbreak in Oklahoma caused damage and prompted calls to take cover as severe tornado-spawning storms threatened more twisters, heavy rain and large hail from Missouri to Texas Sunday.\r\nMul… [+5508 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Steelers.com"
+      },
+      "author": null,
+      "title": "Labriola on the Steelers' 2024 Draft Class - Steelers.com",
+      "description": "The 7 picks check a lot of boxes, but the roster still not a finished product",
+      "url": "https://www.steelers.com/news/labriola-on-the-steelers-2024-draft-class",
+      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/steelers/icsm6ulicw5wxfwebgff",
+      "publishedAt": "2024-04-28T05:45:10Z",
+      "content": "It's a given. Every. Single. Time. Comparable to the parents' response when asked about their newborn. In the immediate aftermath of bringing a new draft class into the world, NFL general managers an… [+7186 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Landon Mion",
+      "title": "White House correspondents' dinner features jabs at Biden's age, Trump's legal woes, mainstream media - Fox News",
+      "description": "The annual White House correspondents' dinner was held Saturday, as President Biden, politicians, journalists and celebrities came together for an election year roast.",
+      "url": "https://www.foxnews.com/media/white-house-correspondents-dinner-features-jabs-bidens-age-trumps-legal-woes-mainstream-media",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/jostbiden.png",
+      "publishedAt": "2024-04-28T05:16:00Z",
+      "content": "The annual White House correspondents' dinner was held Saturday in which President Biden was joined by politicians, journalists and celebrities for an election year roast, with the backdrop of the Is… [+4367 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Suntimes.com"
+      },
+      "author": "Georgia Nicols",
+      "title": "Horoscope for Sunday, April 28, 2024 - Chicago Sun-Times",
+      "description": null,
+      "url": "https://chicago.suntimes.com/horoscopes/2024/04/28/horoscopes-today-sunday-april-28-2024",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/e411933/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F33%2Ffd%2F7568bfef60962f663a8716ddcbb1%2Fgeorgia-nicols.jpg",
+      "publishedAt": "2024-04-28T05:02:52Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Harvey Weinstein hospitalised after conviction overturned - BBC.com",
+      "description": "A lawyer said the disgraced movie mogul was \"somewhat of a train wreck health wise\".",
+      "url": "https://www.bbc.com/news/world-us-canada-68913116",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16622/production/_133228619_weinstein.jpg",
+      "publishedAt": "2024-04-28T04:48:30Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Severe weather update April 27 update at 8:06 pm - KOAM News Now",
+      "description": "Shelters: https://www.koamnewsnow.com/news/storm-shelter-and-emergency-management-links-in-the-4-states/article_2764d194-25e0-5657-8d99-c52393f0ecfa.htmlWeat...",
+      "url": "https://www.youtube.com/watch?v=1SMh-xs83pM",
+      "urlToImage": "https://i.ytimg.com/vi/1SMh-xs83pM/maxresdefault.jpg",
+      "publishedAt": "2024-04-28T04:30:24Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Ryan Dunleavy",
+      "title": "2024 NFL Draft grades for all 32 teams: Bears come up aces, Chiefs snag speedy WR for Mahomes - New York Post ",
+      "description": "Here are The Post’s immediate 2024 NFL Draft grades for all 32 teams.",
+      "url": "https://nypost.com/2024/04/28/sports/2024-nfl-draft-grades-for-all-32-teams-bears-come-up-aces/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/newspress-collage-vcjyus5ii-1714277548471.jpg?quality=75&strip=all&1714263302&w=1024",
+      "publishedAt": "2024-04-28T04:21:00Z",
+      "content": "So, the Eagles, Chiefs and Ravens drafted well again.\r\nWhat else is new?\r\nActually, a lot is new with the 2024 NFL Draft.\r\nA team that only made five picks and used one on a punter aced the draft. A … [+13672 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "2024 NFL undrafted free agent tracker: Full team-by-team list of player signings following NFL Draft - CBS Sports",
+      "description": "The complete list of undrafted free agents signed",
+      "url": "https://www.cbssports.com/nfl/news/2024-nfl-undrafted-free-agent-tracker-full-team-by-team-list-of-player-signings-following-nfl-draft/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/12/d2a4d022-a31f-4d58-af1b-4938fb91be82/thumbnail/1200x675/6787bb0cccf5a9925a0b2c0f3cea05ae/nfl-logo.jpg",
+      "publishedAt": "2024-04-28T04:19:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "JOCELYN GECKER",
+      "title": "College students, faculty demand amnesty for participating in anti-war protests - The Associated Press",
+      "description": "Hundreds of students around the country are being arrested, suspended, put on probation and, in rare cases, expelled from their colleges for participating in pro-Palestinian demonstrations. Many are still waiting to hear the full consequences. Their plight ha…",
+      "url": "https://apnews.com/article/student-protest-gaza-war-arrest-amnesty-ae235703d6a9b99114078fca13a530a0",
+      "urlToImage": "https://dims.apnews.com/dims4/default/de1140e/2147483647/strip/true/crop/7663x4310+0+399/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9d%2F37%2Feafd532b13008d5418039efb3889%2F9792730fbe4c4d2fb4d4f7190f002b75",
+      "publishedAt": "2024-04-28T04:09:00Z",
+      "content": "Maryam Alwan figured the worst was over after New York City police in riot gear arrested her and other protesters on the Columbia University campus, loaded them onto buses and held them in custody fo… [+6506 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Athletic"
+      },
+      "author": "The Athletic Staff",
+      "title": "Saturday’s NBA playoffs scores, takeaways: Thunder roll Pelicans, Nuggets actually bleed, Celtics rout Miami - The Athletic",
+      "description": "Orlando's Franz Wagner scored a game-high 34 points on 13-of-17 shooting from the field.",
+      "url": "https://theathletic.com/5453081/2024/04/27/nba-playoffs-scores-takeaways-cavaliers-magic-thunder-pelicans-celtics-heat-nuggets-lakers/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/04/27151625/USATSI_23127346-scaled.jpg",
+      "publishedAt": "2024-04-28T03:11:15Z",
+      "content": "By Joe Vardon, Josh Robbins, John Hollinger, William Guillory, Manny Navarro and Jay King\r\nThe Boston Celtics took down the Miami Heat with ease Saturday, taking a 2-1 series lead behind a 104-84 run… [+12852 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Filip Timotija",
+      "title": "Former judge calls Pecker an ‘outstanding’ first witness in Trump trial - The Hill",
+      "description": "Florida Judge Jeff Swartz praised ex-National Enquirer publisher David Pecker as an “outstanding” first witness in former President Trump’s hush money trial, stating he was “incredibly credible.”  “I think David pecker was an outstanding choice for the first …",
+      "url": "https://thehill.com/regulation/court-battles/4626634-former-judge-calls-pecker-an-outstanding-first-witness-in-trump-trial/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/04/AP24117643360073.jpg?w=1280",
+      "publishedAt": "2024-04-28T02:10:00Z",
+      "content": "Skip to content\r\nFlorida Judge Jeff Swartz praised ex-National Enquirer publisher David Pecker as an “outstanding” first witness in former President Trump’s hush money trial, stating he was “incredib… [+2342 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Ashley Hume",
+      "title": "‘NCIS: Hawai’i’ star Vanessa Lachey says she's 'gutted' over cancellation of franchise's first female-led show - Fox News",
+      "description": "\"NCIS: Hawai'i\" star Vanessa Lachey said she was \"gutted, confused, blindsided\" after CBS canceled the franchise's first female-led show on Friday.",
+      "url": "https://www.foxnews.com/entertainment/ncis-hawaii-star-vanessa-lachey-gutted-cancellation-franchises-first-female-led-show",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/vanessa.jpg",
+      "publishedAt": "2024-04-28T01:36:00Z",
+      "content": "Vanessa Lachey expressed her shock and dismay over the cancellation of her show \"NCIS: Hawai'i.\"\r\nThe 43-year-old actress starred as Special Agent in Charge Jane Tennant in the Hawaii-based \"NCIS\" sp… [+4314 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "United Auto Workers reaches deal with Daimler Truck, averting potential strike of more than 7,000 workers - CBS News",
+      "description": "The union struck a four-year agreement with the German company on Friday evening, just before the expiration of the previous contract.",
+      "url": "https://www.cbsnews.com/news/united-auto-workers-reaches-deal-daimler-truck/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/11/29/23508dab-7f9f-48e2-ba1e-bf6165be3afc/thumbnail/1200x630/a1751bfa90bd6c34724d6538a678958b/ap23333711211969.jpg?v=63c131a0051f3823d92b0d1dffb5e0e4",
+      "publishedAt": "2024-04-28T00:49:05Z",
+      "content": "The United Auto Workers union announced it reached a last-minute tentative agreement with truck and bus manufacturer Daimler Truck, averting a potential strike of more than 7,000 workers.\r\nThe union … [+1735 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WWD"
+      },
+      "author": "Renan Botelho",
+      "title": "Sophia Bush & Ashlyn Go Black for White House Correspondents' Dinner - WWD",
+      "description": "Sophia Bush and Ashlyn Harris made their red carpet debut in Harbison Studio outfits at the 2024 White House Correspondents' Dinner on Saturday.",
+      "url": "http://wwd.com/pop-culture/celebrity-news/sophia-bush-ashlyn-harris-dress-white-house-correspondents-dinner-1236343750/",
+      "urlToImage": "https://wwd.com/wp-content/uploads/2024/04/whcd-sophia-bush.jpg?w=1024",
+      "publishedAt": "2024-04-27T23:41:44Z",
+      "content": "Sophia Bush and Ashlyn Harris made their red carpet debut in coordinated black outfits with gold accents at the 2024 White House Correspondents’ Dinner on Saturday. The couple was dressed in Harbison… [+1325 chars]"
+    }
+  ]
+}
